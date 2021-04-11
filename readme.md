@@ -42,6 +42,7 @@ Repositories
 1. Building block for storing info on GitHub
 2. Only collaborators can directly make any changes
 
+<<<<<<< HEAD
 Clone ->
 Checkout default branch into the Working directory or Local repository
 
@@ -50,6 +51,11 @@ Moves changes in the upstream repo into the .git repo
 
 Pull ->
 Fetch + Merge
+
+
+These are the 2 Options
+Pull
+Fetch + Merge (2 steps)
 
 
 
