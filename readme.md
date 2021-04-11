@@ -42,5 +42,9 @@ Repositories
 1. Building block for storing info on GitHub
 2. Only collaborators can directly make any changes
 
+2 Options
+Pull
+Fetch + Merge (2 steps)
+
 
 
