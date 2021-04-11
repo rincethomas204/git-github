@@ -4,6 +4,7 @@ Open Source
 Distributed
     > Fast & Disconnected
 Version control System
+Works with Snapshots
 
 Pull Requests
     Enables more collaborations with a group of team members, allowing for review and merge
@@ -57,6 +58,14 @@ Fetch + Merge
 These are the 2 Options
 Pull
 Fetch + Merge (2 steps)
+
+
+Topics - make the GITHUB repo, more discoverable
+
+git branching commands
+- git branch [branch-name]
+- git checkout [branch-name]
+- git push -u [origin] [branch]
 
 
 
