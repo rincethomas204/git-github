@@ -42,7 +42,6 @@ Repositories
 1. Building block for storing info on GitHub
 2. Only collaborators can directly make any changes
 
-<<<<<<< HEAD
 Clone ->
 Checkout default branch into the Working directory or Local repository
 
