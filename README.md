@@ -29,7 +29,7 @@ git config --edit --global
 // View all the global configurations
 // shift + z + z to save and exit and shift + z + q to quit without saving
 
-##**GITHUB**
+## **GITHUB**
 
 Its a GIT Hosting site
 
